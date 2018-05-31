@@ -1,0 +1,11 @@
+commit 427af38e99009c14a27601ddaecc31c83e016402
+Author: Carlos <rhcp021@gmail.com>
+Date:   Wed May 30 21:19:55 2018 -0500
+
+    Se borro informacion el archivo
+
+commit 20472e4b0961afb89522a0898f0522feb500e69a
+Author: Carlos <rhcp021@gmail.com>
+Date:   Wed May 30 21:17:40 2018 -0500
+
+    Primer Commit
